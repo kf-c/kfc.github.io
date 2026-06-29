@@ -1,2 +1,2 @@
 # kfc.github.io
-resume
+resume ...
